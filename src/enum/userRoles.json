@@ -1,0 +1,16 @@
+[{
+    "ip": "*",
+    "password": "Blobbyiscoolandbae",
+    "role": "ADMIN",
+    "name": "herohamp"
+}, {
+    "ip": "127.0.0.1",
+    "password": "",
+    "role": "MODER",
+    "name": "Local Moderator"
+}, {
+    "ip": "127.0.0.1",
+    "password": "",
+    "role": "USER",
+    "name": "Local User"
+}]
